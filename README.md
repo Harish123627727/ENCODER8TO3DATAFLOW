@@ -1,3 +1,9 @@
+**NAME:HARISH S**
+
+**REG NO:24901078**
+
+**EXP NO 5  ENCODER 8TO3 DATAFLOW Modelling**
+
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -16,7 +22,7 @@ The 8 to 3 line Encoder is also known as Octal to Binary Encoder. In 8 to 3 line
 
 Figure 01  Block Diagram of Encoder 8 * 3
 
-**Truth Table**
+**TRUTH TABLE**
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 
@@ -34,22 +40,32 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
+**PROCEDURE**
 
-/* write all the steps invloved */
+
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/38c520ef-5139-4ca6-84c7-c545e046553f)
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+
+![image](https://github.com/user-attachments/assets/b5984cc2-92eb-483a-98f7-b2a3d87cefe3)
+
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+
+![image](https://github.com/user-attachments/assets/5a9447e8-35c0-4240-8dc5-ba0efc6ffe39)
+
+
 **RESULTS**
+Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus ii using
+ verilog programming successfully
+
 
 
 
